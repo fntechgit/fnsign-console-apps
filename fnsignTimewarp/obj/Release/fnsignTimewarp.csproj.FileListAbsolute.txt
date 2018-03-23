@@ -1,0 +1,11 @@
+D:\Development\Tipit\FNTech\fnsign-console-apps\fnsignTimewarp\bin\Release\fnsignTimewarp.exe.config
+D:\Development\Tipit\FNTech\fnsign-console-apps\fnsignTimewarp\bin\Release\fnsignTimewarp.exe
+D:\Development\Tipit\FNTech\fnsign-console-apps\fnsignTimewarp\bin\Release\fnsignTimewarp.pdb
+D:\Development\Tipit\FNTech\fnsign-console-apps\fnsignTimewarp\bin\Release\schedInterface.dll
+D:\Development\Tipit\FNTech\fnsign-console-apps\fnsignTimewarp\bin\Release\Newtonsoft.Json.dll
+D:\Development\Tipit\FNTech\fnsign-console-apps\fnsignTimewarp\bin\Release\schedInterface.pdb
+D:\Development\Tipit\FNTech\fnsign-console-apps\fnsignTimewarp\obj\Release\fnsignTimewarp.ProjectInstaller.resources
+D:\Development\Tipit\FNTech\fnsign-console-apps\fnsignTimewarp\obj\Release\fnsignTimewarp.csproj.GenerateResource.Cache
+D:\Development\Tipit\FNTech\fnsign-console-apps\fnsignTimewarp\obj\Release\fnsignTimewarp.exe
+D:\Development\Tipit\FNTech\fnsign-console-apps\fnsignTimewarp\obj\Release\fnsignTimewarp.pdb
+D:\Development\Tipit\FNTech\fnsign-console-apps\fnsignTimewarp\obj\Release\fnsignTimewarp.csprojResolveAssemblyReference.cache
