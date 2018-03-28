@@ -17,3 +17,6 @@ D:\Development\Tipit\FNTech\fnsign_updater_Azure\obj\Release\fnsign_updater.appl
 D:\Development\Tipit\FNTech\fnsign_updater_Azure\obj\Release\fnsign_updater.exe
 D:\Development\Tipit\FNTech\fnsign_updater_Azure\obj\Release\fnsign_updater.pdb
 D:\Development\Tipit\FNTech\fnsign_updater_Azure\obj\Release\fnsign_updater.csprojResolveAssemblyReference.cache
+D:\Development\Tipit\FNTech\fnsign-console-apps\fnsign_updater\bin\Release\fnsign_updater.exe.config
+D:\Development\Tipit\FNTech\fnsign-console-apps\fnsign_updater\obj\Release\fnsign_updater.exe
+D:\Development\Tipit\FNTech\fnsign-console-apps\fnsign_updater\obj\Release\fnsign_updater.pdb
