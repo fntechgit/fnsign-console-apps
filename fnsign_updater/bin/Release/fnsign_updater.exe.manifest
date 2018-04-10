@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fnsign_updater.exe" size="9160">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fnsign_updater.exe" size="10184">
       <assemblyIdentity name="fnsign_updater" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>tM9OiDrfyyYZqeNhvAk1ljCeWAg=</dsig:DigestValue>
+        <dsig:DigestValue>wgGPsZpikydF+8AdMWZgSZPTDCg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -90,14 +90,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="schedInterface.dll" size="266240">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="schedInterface.dll" size="278016">
       <assemblyIdentity name="schedInterface" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>bYbNoE0tSNHNgi3KehlXPHJwvvs=</dsig:DigestValue>
+        <dsig:DigestValue>813tmI7SEnDPgRi6TeiMWRRMqpE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

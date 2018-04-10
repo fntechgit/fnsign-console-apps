@@ -33,11 +33,20 @@ namespace fnsign_updater
       {
         Console.WriteLine("Finding Sessions for " + ev.title);
         Console.WriteLine("");
-        List<Session> sessionList = sessions.all(ev.url, ev.api_key);
+        List<Session> sessionList = sessions.getSessionsFromAPI(ev.url, ev.api_key, ev.api_type);
         Console.WriteLine(sessionList.Count.ToString() + " Sessions Found...");
         Console.WriteLine("");
         foreach (Session s in sessionList)
           sessions.add(s, ev.id);
+
+        //Remove those sessions which stopped coming from api
+        IList<string> incomingSessionIds = sessionList.Select(x => x.event_key).ToList();
+        List<Session> notComingAnymoreSessions = sessions.by_event(ev.id).Where(x => !incomingSessionIds.Contains(x.event_key)).ToList<Session>();
+        foreach (var item in notComingAnymoreSessions)
+        {
+            sessions.delete(int.Parse(item.id));
+        }
+
         Console.WriteLine("");
         Console.WriteLine("Finding Tweets for Global Event Tag...");
         Console.WriteLine("");
